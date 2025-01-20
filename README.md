@@ -2,15 +2,15 @@
 
 ## 文件目录说明
 
-项目根目录/
-│
-├── 脚本.bat                     # 批处理脚本，用于调用 Python 脚本并处理提交信息
-├── python_scripts/              # 存放 Python 脚本的文件夹
-│   ├── check_date.py            # 检查日期格式和合法性的 Python 脚本
-│   └── process_commit_info.py   # 处理提交信息并生成输出文件的 Python 脚本
-├── CommitInfo.txt               # 临时文件，保存从 Perforce 提取的原始提交信息
-├── jiangruiyuan_commit_info.txt # 示例输出文件，保存处理后的提交信息
-└── README.md                    # 项目说明文件
+项目根目录/  
+│  
+├── 脚本.bat                     # 批处理脚本，用于调用 Python 脚本并处理提交信息  
+├── python_scripts/              # 存放 Python 脚本的文件夹  
+│   ├── check_date.py            # 检查日期格式和合法性的 Python 脚本  
+│   └── process_commit_info.py   # 处理提交信息并生成输出文件的 Python 脚本  
+├── CommitInfo.txt               # 临时文件，保存从 Perforce 提取的原始提交信息  
+├── jiangruiyuan_commit_info.txt # 示例输出文件，保存处理后的提交信息  
+└── README.md                    # 项目说明文件  
 
 ## 使用方法
 
